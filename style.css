@@ -1,0 +1,37 @@
+.type{
+	height: 10%;
+	width:100%;
+	background-color: red;
+	float:right;
+}
+ .type ul {
+  list-style-type: none;
+  margin-right:  800;
+  padding-right:800px;
+  overflow: hidden;
+  
+}
+
+.type li {
+  float: left;
+}
+
+.type li a {
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111111;
+}
+
+
+
+.picture{
+
+	width: 100%;
+}
+	
+
